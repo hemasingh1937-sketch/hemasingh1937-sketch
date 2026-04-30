@@ -9,12 +9,12 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on **full stack web applications**
-- 🌱 I'm currently learning **Django, React, and System Design**
-- 👯 I'm looking to collaborate on **open source and real-world projects**
-- 💬 Ask me about **Python, Django, JavaScript, and Web Development**
-- 📫 Reach me at **hemasingh1937@gmail.com**
-- ⚡ Fun fact: I love building scalable backend systems
+-  I'm currently working on **full stack web applications**
+-  I'm currently learning **Django, React, and System Design**
+-  I'm looking to collaborate on **open source and real-world projects**
+-  Ask me about **Python, Django, JavaScript, and Web Development**
+-  Reach me at **hemasingh1937@gmail.com**
+-  Fun fact: I love building scalable backend systems
 
 ---
 
